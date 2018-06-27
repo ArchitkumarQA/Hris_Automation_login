@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13027" started-at="2018-06-27T05:16:46Z" finished-at="2018-06-27T05:16:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13027" started-at="2018-06-27T05:16:46Z" finished-at="2018-06-27T05:16:59Z">
+      <class name="com.qainfotech.training.AppTest">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:com.qainfotech.training.AppTest@27efef64]" name="setDriver" is-config="true" duration-ms="5661" started-at="2018-06-27T05:16:46Z" finished-at="2018-06-27T05:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:com.qainfotech.training.AppTest@27efef64]" name="shouldAnswerWithTrue" duration-ms="7" started-at="2018-06-27T05:16:51Z" finished-at="2018-06-27T05:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+        <test-method status="PASS" signature="setLogin1()[pri:1, instance:com.qainfotech.training.AppTest@27efef64]" name="setLogin1" duration-ms="722" started-at="2018-06-27T05:16:51Z" finished-at="2018-06-27T05:16:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setLogin1 -->
+        <test-method status="PASS" signature="enter_username_incorrect_password()[pri:2, instance:com.qainfotech.training.AppTest@27efef64]" name="enter_username_incorrect_password" duration-ms="1275" started-at="2018-06-27T05:16:52Z" finished-at="2018-06-27T05:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_username_incorrect_password -->
+        <test-method status="PASS" signature="enter_username_correct_password()[pri:3, instance:com.qainfotech.training.AppTest@27efef64]" name="enter_username_correct_password" duration-ms="5307" started-at="2018-06-27T05:16:53Z" finished-at="2018-06-27T05:16:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_username_correct_password -->
+      </class> <!-- com.qainfotech.training.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
